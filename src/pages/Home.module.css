@@ -1,0 +1,26 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+.home-general_info{
+    margin: 10px 0 10px 0;
+}
+h1{
+    text-align: center;
+    font-size: medium;
+    margin-bottom: 10px;
+}
+h2{
+    margin: 10px 20px;
+    font-size: small;
+
+}
+p{
+    border: 2px double white;  
+    font-size: small;
+    padding: 20px;
+    text-align: justify;
+}
+
+

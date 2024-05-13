@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    top: 50%;
+}
+
+a {
+    color: white;
+    margin: 15px 20px;
+    text-decoration: none;
+    font-size: large;
+    padding: 8px 12px;
+
+}
+a:hover {
+    color: tomato;
+}
+
+.nav_link-active {
+    border: 2px solid white;
+    padding: 6px 10px;
+    
+}
